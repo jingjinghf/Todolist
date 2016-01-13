@@ -11,7 +11,9 @@ import javax.servlet.http.HttpSession;
 
 import edu.cmu.cs.webapp.todolist8.databean.User;
 import edu.cmu.cs.webapp.todolist8.model.Model;
-
+/**
+ * This is the controller for the other actions.
+ **/
 public class Controller extends HttpServlet {
 
     private static final long serialVersionUID = 1L;
